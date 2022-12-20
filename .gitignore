@@ -1,1 +1,2 @@
-migrations
+apiserver.exe
+configs/apiserver.toml

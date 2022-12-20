@@ -1,0 +1,4 @@
+# bind_addr = default bind address
+# log_level = default log level
+# database_url = your postgres information
+# session_key = session key
